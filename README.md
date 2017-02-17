@@ -31,8 +31,8 @@ MTg2Nzk1MDE1ODU= (base64)
 
 公司是一家专注于车辆抵（质）押贷款和个人投融资服务的互联网金融公司。
 
-1. 使用 vue + [vue-resource](https://github.com/pagekit/vue-resource) + [vue-router](https://github.com/vuejs/vue-router) + [vue-cli](https://github.com/vuejs/vue-cli) 开发 **新商富贷网站** ，由于后台同学人手不足，故暂未上线。
-2. 使用 vue 开发 **蜜蜂聚财 WEB APP** ，使用到vue +vuex+ [vue-resource](https://github.com/pagekit/vue-resource) + [vue-router](https://github.com/vuejs/vue-router) + [vue-cli](https://github.com/vuejs/vue-cli) + es6 + babel + sass + jade，UI框架使用的是WEUI，图片处理这一块小图标做成了sprite，部分大图使用webpack 自动适配处理成base64。目前1.0版本已上线，1.2版本即将上线。
+1. 使用 vue + [vue-resource](https://github.com/pagekit/vue-resource) + [vue-router](https://github.com/vuejs/vue-router) + [vue-cli](https://github.com/vuejs/vue-cli) 开发 [**新商富贷网站**](https://www.sfdai.com/)，由于后台同学人手不足，故暂未上线。
+2. 使用 vue 开发 [**蜜蜂聚财 WEB APP**](http://app.beejc.com/)，使用到vue +vuex+ [vue-resource](https://github.com/pagekit/vue-resource) + [vue-router](https://github.com/vuejs/vue-router) + [vue-cli](https://github.com/vuejs/vue-cli) + es6 + babel + sass + jade，UI框架使用的是WEUI，图片处理这一块小图标做成了sprite，部分大图使用webpack 自动适配处理成base64。目前1.0版本已上线，1.2版本即将上线。
 3. 相关活动页。
 4. 由于后端同学人手不足，协助他们写了一部分后台接口。主要是用的是Python3+Tornado+MongoDB。
 
