@@ -1,6 +1,6 @@
 **程强**
 
-**求职意向：前端开发**
+**求职意向：Python后端开发**
 
 手机：MTg2Nzk1MDE1ODU= (base64)
 
@@ -39,7 +39,7 @@
 
 
 
-**前端技能**
+**CS技能**
 
 HTML5    CSS3  JavaScript   jQuery  Bootstrap  SASS  VUE 1.0 ：★★★★
 
