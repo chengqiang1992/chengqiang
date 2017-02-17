@@ -1,20 +1,19 @@
 **程强**
-
-
+<br>
 **求职意向：Python后端开发**
 
 手机：MTg2Nzk1MDE1ODU= (base64)
 
 邮箱：[**eHBsdXRvMTk5MkBnbWFpbC5jb20=**](mailto:xpluto1992@gmail.com)
 
-
+<br>
 **教育背景**
 
 2011.09-2015.07  宜春学院  计算机科学与技术   本科
 
 教育经历：院辩论赛冠军，校演讲比赛二等奖，两次获得劳动积极分子称号，全国大学生创新创业大赛江西赛区银奖，美国大学生数学建模竞赛二等奖，美国大学生数学建模竞赛一等奖（部分荣誉）。
 
-
+<br>
 **项目经历**
 
 **杭州掌星网络科技有限公司**
@@ -41,7 +40,7 @@
 4. 由于后端同学人手不足，协助他们写了一部分后台接口。主要是用的是Python3+Tornado+MongoDB。
 
 
-
+<br>
 **CS技能**
 
 HTML5    CSS3  JavaScript   jQuery  Bootstrap  SASS  VUE 1.0 ：★★★★
